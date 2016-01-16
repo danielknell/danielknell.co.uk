@@ -14,7 +14,7 @@ html {
     min-height: 100%;
 }
 body {
-  font: 500 16px Futura, sans-serif;
+  font: 500 16px Futura, futura-pt, sans-serif;
   color: #3e4349;
   min-width: 240px;
 }
